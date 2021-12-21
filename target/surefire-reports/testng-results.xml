@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48677" started-at="2021-12-17T22:27:20 IST" finished-at="2021-12-17T22:28:08 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="48677" started-at="2021-12-17T22:27:20 IST" finished-at="2021-12-17T22:28:08 IST">
+      <class name="com.atibidar.maven.basic.MavenSample">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.atibidar.maven.basic.MavenSample@7d0587f1]" name="openBrowser" is-config="true" duration-ms="42097" started-at="2021-12-17T22:27:20 IST" finished-at="2021-12-17T22:28:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyFirstBookTitle()[pri:0, instance:com.atibidar.maven.basic.MavenSample@7d0587f1]" name="verifyFirstBookTitle" duration-ms="124" started-at="2021-12-17T22:28:02 IST" finished-at="2021-12-17T22:28:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFirstBookTitle -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:com.atibidar.maven.basic.MavenSample@7d0587f1]" name="verifyHomePageTitle" duration-ms="13" started-at="2021-12-17T22:28:02 IST" finished-at="2021-12-17T22:28:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="verifyNewArrivalsDisplayed()[pri:0, instance:com.atibidar.maven.basic.MavenSample@7d0587f1]" name="verifyNewArrivalsDisplayed" duration-ms="125" started-at="2021-12-17T22:28:02 IST" finished-at="2021-12-17T22:28:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewArrivalsDisplayed -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.atibidar.maven.basic.MavenSample@7d0587f1]" name="closeBrowser" is-config="true" duration-ms="6258" started-at="2021-12-17T22:28:02 IST" finished-at="2021-12-17T22:28:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.atibidar.maven.basic.MavenSample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
